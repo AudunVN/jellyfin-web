@@ -6,8 +6,11 @@
     }
 
     .slider-zoom-container {
-        text-align: center;
+        display: flex;
         height: 100%;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
     }
 
     .swiper-slide-img {
